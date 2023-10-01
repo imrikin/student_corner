@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "753531438374",
+    "project_id": "student-corner-bc4ef",
+    "storage_bucket": "student-corner-bc4ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753531438374:android:094602d86dd6478e316de7",
+        "android_client_info": {
+          "package_name": "com.example.student_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753531438374-bj62kj7bfu59osu68a3ssu7erui7ib5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3n2wtL2zrgFW9Nijq_EQ9mgd-jzDjDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753531438374-bj62kj7bfu59osu68a3ssu7erui7ib5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753531438374-5lfnrnlegsv4f9n0d5phnplnuj79qe69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentCorner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753531438374:android:3ff98f4763c32416316de7",
+        "android_client_info": {
+          "package_name": "com.student_corner.student_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753531438374-bj62kj7bfu59osu68a3ssu7erui7ib5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3n2wtL2zrgFW9Nijq_EQ9mgd-jzDjDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753531438374-bj62kj7bfu59osu68a3ssu7erui7ib5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753531438374-5lfnrnlegsv4f9n0d5phnplnuj79qe69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentCorner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
